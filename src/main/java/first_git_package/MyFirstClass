@@ -27,3 +27,13 @@
    *git add "class path"
    *git commit -m "Adding 4th class"
    *git push
+
+== git pull
+   * git pull is used to get the code from github
+   *git pull= git fetch + git merge
+   note : if git pull throws error try first
+   *git fetch
+   *then git merge
+   *then : git pull
+
+now : that we have our local updated, then commit the codes and push all together
